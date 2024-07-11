@@ -14,41 +14,5 @@ Adjust sliders or enter values for daily transportation, monthly electricity con
 Calculate CO2 Emission:
 Click the button to view your estimated carbon emissions and total carbon footprint.
 
-
-Installation
-To run the Carbon Calculator locally:
-
-Clone this repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/carbon-calculator.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd carbon-calculator
-Install dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the application:
-
-bash
-Copy code
-streamlit run app.py
-Contributing
-Contributions are welcome! Here's how you can contribute:
-
-Fork the repository.
-Create a new branch (git checkout -b feature/add-new-feature).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/add-new-feature).
-Create a new Pull Request.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 Acknowledgements
 Streamlit: For providing an easy-to-use framework for building interactive web applications in Python.
