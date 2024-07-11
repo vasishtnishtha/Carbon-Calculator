@@ -25,7 +25,7 @@ st.title('Carbon Calculator')
 # user inputs
 
 st.subheader("🌍 Your Country")
-country = st.selectbox("Select your country", ['India', 'Canada'])
+country = st.selectbox("Select your Country", ['India', 'Canada'])
 
 col1, col2 = st.columns(2)
 with col1:
